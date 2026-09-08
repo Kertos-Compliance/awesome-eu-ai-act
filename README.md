@@ -74,6 +74,7 @@ The [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R
 - **[Trustible](https://trustible.com)** — AI governance and policy management.
 - **[OneTrust](https://onetrust.com)** — General-purpose privacy and GRC platform with an AI governance module. Public developer documentation.
 - **[Vanta](https://vanta.com)** — Automated compliance platform with a named EU AI Act framework (150+ controls). Public developer and help documentation.
+- **[Kertos](https://kertos.io)** — EU-hosted compliance automation platform for GDPR, ISO 27001, NIS2, and the EU AI Act.
 
 ## Monitoring & Observability
 
